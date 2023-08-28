@@ -1,0 +1,30 @@
+_repo: The-stereoscope_71483
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Brewster, David
+    alias: Brewster, David, Sir
+    birthdate: 1781
+    deathdate: 1868
+    gutenberg_agent_id: '31721'
+    url: http://www.gutenberg.org/2009/agents/31721
+    wikipedia: https://en.wikipedia.org/wiki/David_Brewster
+description: ''
+gutenberg_issued: '2023-08-24'
+identifiers:
+  gutenberg: '71483'
+language: en
+pgterms:marc904: https://archive.org/details/stereoscopeitshi00brew
+pgterms:marc905: 20220921142031brewster
+pgterms:marc906: '1856'
+pgterms:marc907: GB
+production_note: deaurider and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aLondon :$bJohn Murray, $c1856.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The stereoscope
+url: http://www.gutenberg.org/ebooks/71483
